@@ -2,7 +2,7 @@
 
 **Last Updated: May 11, 2026**
 
-This privacy policy governs your use of the software application **ImmaShap** ("Application") for mobile devices. The Application is an educational tool focused on South African biomes.
+This privacy policy governs your use of the software application **ImmaShap** ("Application") for mobile devices. The Application is a wellbeing check-in app.
 
 ---
 
